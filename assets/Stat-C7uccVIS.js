@@ -1,1 +1,0 @@
-import{j as e}from"./index-BdD8SnhP.js";function a({value:t,label:s}){return e.jsxs("div",{className:"flex-1 text-center",children:[e.jsx("p",{className:"font-display text-4xl leading-none text-durbar-900",children:t}),e.jsx("p",{className:"mt-2 text-xs font-semibold uppercase tracking-[0.18em] text-ink-600",children:s})]})}export{a as S};
